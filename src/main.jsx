@@ -1,11 +1,12 @@
 import ReactDOM from "react-dom/client";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 import ArticlePage from "./pages/ArticlePage";
 import { objList } from "./utils/parsingJson";
 import { useState } from "react";
 import { phrase } from "./content/constants";
+
 export default function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [password, setPassword] = useState("");
@@ -33,22 +34,20 @@ export default function App() {
   }
 
   return (
-    <BrowserRouter>
+    <Router>
       <Routes>
         <Route path="/" element={<Layout objList={objList} />}>
           <Route index element={<Home />} />
-          {objList.map((article) => {
-            return (
-              <Route
-                key={article.objName}
-                path={article.objName}
-                element={<ArticlePage article={article} />}
-              />
-            );
-          })}
+          {objList.map((article) => (
+            <Route
+              key={article.objName}
+              path={article.objName}
+              element={<ArticlePage article={article} />}
+            />
+          ))}
         </Route>
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
 
