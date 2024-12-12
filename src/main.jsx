@@ -27,27 +27,35 @@ export default function App() {
           type="password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
+          onKeyDown={(e) => {
+            if (e.key === "Enter") {
+              handleLogin();
+            }
+          }}
         />
-        <button onClick={handleLogin}>Submit</button>
+        <button onClick={handleLogin} autoFocus>
+          Submit
+        </button>
       </div>
     );
   }
 
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={<Layout objList={objList} />}>
-          <Route index element={<Home />} />
-          {objList.map((article) => (
-            <Route
-              key={article.objName}
-              path={article.objName}
-              element={<ArticlePage article={article} />}
-            />
-          ))}
-        </Route>
-      </Routes>
-    </Router>
+    <div>Welcome!</div>
+    // <Router>
+    //   <Routes>
+    //     <Route path="/" element={<Layout objList={objList} />}>
+    //       <Route index element={<Home />} />
+    //       {objList.map((article) => (
+    //         <Route
+    //           key={article.objName}
+    //           path={article.objName}
+    //           element={<ArticlePage article={article} />}
+    //         />
+    //       ))}
+    //     </Route>
+    //   </Routes>
+    // </Router>
   );
 }
 
