@@ -18,6 +18,10 @@ import MAT from "../assets/MAT.jpg";
 import paella from "../assets/paella.jpg";
 import sagrada from "../assets/sagrada.jpg";
 
+// monica
+import toronto from "../assets/toronto.jpg";
+import directing from "../assets/directing.jpg";
+
 export const imgArr = {
   canyonlands: canyonlands,
   fish: fish,
@@ -38,4 +42,7 @@ export const imgArr = {
   MAT: MAT,
   paella: paella,
   sagrada: sagrada,
+  // monica
+  toronto: toronto,
+  directing: directing,
 };
