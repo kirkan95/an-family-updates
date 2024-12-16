@@ -7,6 +7,17 @@ import mexicoCity from "../assets/mexico-city.jpg";
 import hawaii from "../assets/hawaii.jpg";
 import kjbabyShower from "../assets/kjbabyShower.jpg";
 
+// laurnold
+import arie1 from "../assets/arie-1.jpg";
+import arie2 from "../assets/arie-2.jpg";
+import arie3 from "../assets/arie-3.jpg";
+import beach from "../assets/beach.jpg";
+import coffee from "../assets/coffee.jpg";
+import eggTart from "../assets/egg-tart.jpg";
+import MAT from "../assets/MAT.jpg";
+import paella from "../assets/paella.jpg";
+import sagrada from "../assets/sagrada.jpg";
+
 export const imgArr = {
   canyonlands: canyonlands,
   fish: fish,
@@ -17,4 +28,14 @@ export const imgArr = {
   hawaii: hawaii,
   kjbabyShower,
   kjbabyShower,
+  // laurnold
+  arie1: arie1,
+  arie2: arie2,
+  arie3: arie3,
+  beach: beach,
+  coffee: coffee,
+  eggTart: eggTart,
+  MAT: MAT,
+  paella: paella,
+  sagrada: sagrada,
 };
