@@ -41,9 +41,18 @@
   max-width: 900px;
 }
 
+.subhed {
+  font-style: italic;
+}
+
 .headline {
   font-size: 3rem;
   margin-bottom: 0rem;
+  line-height: 6rem;
+  @media screen and (max-width: 600px) {
+    line-height: 4rem;
+    margin-bottom: 2rem;
+  }
 }
 
 .paragraph {
@@ -67,8 +76,20 @@
   gap: 1rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
+
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+    gap: 10px;
+  }
 }
 
 .inline-image {
   max-width: 350px;
+  @media screen and (max-width: 600px) {
+    max-width: 100%;
+  }
+}
+
+p {
+  margin: 0;
 }
