@@ -4,6 +4,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import Button from "@mui/material/Button";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
+import Footer from "./Footer";
 
 const Layout = ({ objList }) => {
   const [isMobile, setIsMobile] = useState(window.innerWidth < 600);
@@ -87,7 +88,10 @@ const Layout = ({ objList }) => {
         </div>
       )}
 
-      <Outlet />
+      <div className="main-content">
+        <Outlet />
+      </div>
+      <Footer />
     </>
   );
 };

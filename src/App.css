@@ -18,6 +18,18 @@
   font-style: normal;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes at least 100% of the viewport height */
+  margin: 0;
+}
+
+.main-content {
+  flex: 1; /* Take all the remaining space */
+  padding: 20px;
+}
+
 .nav-menu {
   display: flex;
   flex-direction: row;
@@ -113,4 +125,19 @@
 
 p {
   margin: 0;
+}
+
+/* footer */
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+  gap: 1rem;
+  font-size: 1.2rem;
+  padding: 1rem;
+  background-color: #f8f9fa; /* Optional background */
+  font-size: 0.8rem;
+  font-weight: 400;
 }
