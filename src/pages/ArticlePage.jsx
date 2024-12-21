@@ -4,24 +4,37 @@ import "../../src/App.css";
 
 const ArticlePage = ({ article }) => {
   const [scrollY, setScrollY] = useState(0);
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 600);
 
   const maxScroll = 500;
 
   useEffect(() => {
     const handleScroll = () => {
-      setScrollY(Math.min(window.scrollY, maxScroll));
+      if (!isMobile) {
+        setScrollY(Math.min(window.scrollY, maxScroll));
+      }
+    };
+
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 600);
     };
 
     window.addEventListener("scroll", handleScroll);
+    window.addEventListener("resize", handleResize);
 
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("resize", handleResize);
+    };
+  }, [isMobile]);
 
-  const scaleValue = 1.2 - (scrollY / maxScroll) * 0.2;
-  const parallaxStyle = {
-    transform: `scale(${scaleValue})`,
-    transition: "transform 0.1s",
-  };
+  const scaleValue = isMobile ? 1 : 1.2 - (scrollY / maxScroll) * 0.2;
+  const parallaxStyle = isMobile
+    ? {}
+    : {
+        transform: `scale(${scaleValue})`,
+        transition: "transform 0.1s",
+      };
 
   let content = [];
 
@@ -55,10 +68,12 @@ const ArticlePage = ({ article }) => {
     }
     if (element.section_type === "hero-image") {
       htmlEl = (
-        <div className="hero-image-container">
+        <div
+          className="hero-image-container"
+          key={element.section_type + index}
+        >
           <img
             className="hero-image"
-            key={element.section_type + index}
             src={imgArr[element.img_name]}
             alt={element.img_name}
             style={parallaxStyle}
@@ -88,7 +103,10 @@ const ArticlePage = ({ article }) => {
             src={imgArr[element.img_name]}
             alt={element.img_name}
           />
-          <p className="crimson-text-regular paragraph">{element.text}</p>
+          <p
+            className="crimson-text-regular paragraph"
+            dangerouslySetInnerHTML={{ __html: element.text }}
+          ></p>
         </div>
       );
     }

@@ -31,10 +31,24 @@
   color: black;
 }
 
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .home-header {
   display: flex;
   justify-content: center;
 }
+
+.photo {
+  width: 100%;
+  height: auto;
+}
+
+/* article page */
 
 .article {
   margin: auto;
@@ -52,6 +66,7 @@
   @media screen and (max-width: 600px) {
     line-height: 4rem;
     margin-bottom: 2rem;
+    padding: 5px;
   }
 }
 
@@ -63,10 +78,16 @@
   width: 100%;
   max-width: 900px;
   overflow: hidden;
+  @media screen and (max-width: 600px) {
+    max-width: 100%;
+  }
 }
 
 .hero-image {
   max-width: 900px;
+  @media screen and (max-width: 600px) {
+    max-width: 100%;
+  }
 }
 
 .image-list {
