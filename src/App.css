@@ -21,7 +21,7 @@
 body {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Ensure the body takes at least 100% of the viewport height */
+  min-height: 100lvh; /* Ensure the body takes at least 100% of the viewport height */
   margin: 0;
 }
 
