@@ -14,6 +14,7 @@ import antelope from "../assets/antelope.jpg";
 import zion from "../assets/zion.jpg";
 import bryce from "../assets/bryce.jpg";
 import shiprock from "../assets/shiprock.jpg";
+import houston from "../assets/houston.jpg";
 
 //perry-elise
 import peHero from "../assets/peHero.jpg";
@@ -54,6 +55,7 @@ export const imgArr = {
   zion: zion,
   bryce: bryce,
   shiprock: shiprock,
+  houston: houston,
   // perry-elise
   peHero: peHero,
   progeny: progeny,
