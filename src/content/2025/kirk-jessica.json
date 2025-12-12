@@ -1,0 +1,224 @@
+[
+  { "section": "special-values", "special_values_name": "kirk-jessica" },
+  {
+    "section": "intro",
+    "content": [
+      {
+        "type": "photo",
+        "src": "/2025/kirk-jessica/intro.jpg"
+      },
+      {
+        "type": "text",
+        "person": "Kirk",
+        "text": "2025 was a big year full of change and adventure for Kirk and Jessica. The biggest change was their move to Delaware from Houston, where they’re excited to start a new chapter! At work at the Boston Globe, Kirk was fortunate enough to head the development and launch several large interactive news projects, and has been working on some apps as passion projects. He got back into running (slowly), and released his first solo album on Spotify, which was his goal to release before he turned 30! "
+      },
+      {
+        "type": "text",
+        "person": "Jessica",
+        "text": "2025 was a year that felt so far in the future but has flown by and was full of new adventures. Jessica started the year working in a clinic in Malawi and going on a safari in Kenya with Kirk! Jessica graduated from residency this year, completing her many years of medical training. She said goodbye to many friends in Houston but has also reunited with friends and family now that she’s returned to the East Coast. After lots of studying and some time off, she is now officially double-board certified in both Internal Medicine and Pediatrics and started her dream job as a teaching attending and primary care physician for both adults and children at ChristianaCare in Wilmington, Delaware!"
+      }
+    ]
+  },
+  {
+    "section": "travel",
+    "content": [
+      {
+        "location": "Malawi/Kenya",
+        "latLong": [-13.986716798152944, 33.76933175572749],
+        "img": "malawi",
+        "description": "Jessica went on an away rotation to a Baylor International Pediatric AIDS Initative (BIPAI) clinic in Malawi, and after she finished her month there, Kirk flew to meet her in Kenya where they went on a safari and visited Kirk's cousin Kara in Nairobi."
+      },
+      {
+        "location": "Corpus Christi/South Padre Island, TX",
+        "latLong": [26.109320348976528, -97.16693852876395],
+        "img": "corpus",
+        "description": "Kirk and Jessica celebrated their fifth anniversary with a weekend getaway to Corpus Christi and South Padre Island. The trip included a stay at a Best Western for Kirk's first Texas-shaped waffle! Kirk may have called upwards of six Best Westerns to find one that would gaurantee the experience."
+      },
+      {
+        "location": "Road trip from Houston to PA",
+        "latLong": [29.75895970087684, -95.36672240135393],
+        "img": "roadtrip",
+        "description": "In order to move back to the East Coast, Kirk and Jessica traveled through Mississippi, Alabama, Georgia, South Carolina and Maryland."
+      },
+      {
+        "location": "Disney vacation",
+        "latLong": [28.376980631549394, -81.57055963349711],
+        "img": "disney",
+        "description": "Kirk surprised Jessica with a trip to Disney World 10 years after she worked there as a college student. Kirk found every possible way to make the fireworks each night special — from the rooftop of The Contemporary, and on Main Street on the Fourth of July/Jessica's birthday, the new Epcot fireworks show while eating dinner at Monsiuer Paul's, and from their room at the Wilderness Lodge!"
+      },
+      {
+        "location": "Berkshires",
+        "latLong": [42.30705008626082, -73.24900250899663],
+        "img": "berkshires",
+        "description": "The Hsieh family (Kirk's mom's side) had a big reunion in the Berkshires where they got to catch up with cousins, aunts and uncles from far away, and enjoy the outdoors together as a big family."
+      },
+      {
+        "location": "Shenandoah National Park",
+        "latLong": [38.48571425410581, -78.45605205835578],
+        "img": "shenandoah",
+        "description": "To celebrate Jessica finishing both her boards, they took a trip to Senandoah to hike and see some friends back in Virginia. They couldn't pass up the opportunity to stop at the northernmost Buc-ee's on the way back."
+      },
+      {
+        "location": "Thailand",
+        "latLong": [13.760314714745624, 100.5074442955878],
+        "img": "",
+        "description": "Kirk and Jessica might be in Thailand as you read this—they're going to attend the wedding of one of Jessica's residency friends!"
+      }
+    ]
+  },
+  {
+    "section": "best-bites",
+    "content": [
+      {
+        "location_name": "Little’s Oyster Bar",
+        "dish_name": "Lobster gnocchi",
+        "img": "lobster",
+        "description": "A beautiful and very filling dish at one of their favorite restaurants in Houston."
+      },
+      {
+        "location_name": "Kenya",
+        "dish_name": "African Passion Fanta",
+        "img": "fanta",
+        "description": "They just picked this up from the grocery store out of curiosity and now they can't go back to what they were used to!"
+      },
+      {
+        "location_name": "Kenya",
+        "dish_name": "Beef noodle soup",
+        "img": "kenyaBite",
+        "description": "They were surprised to discover stunningly authentic Chinese food in Nairobi, thanks to the large population of Chinese workers in the area. The beef noodle soup here was killer."
+      },
+      {
+        "location_name": "BORI",
+        "dish_name": "Scallion salad",
+        "img": "scallion",
+        "description": "Though it was just a side dish at this Houston KBBQ restaurant, the scallion salad stole the show."
+      },
+      {
+        "location_name": "Nonno’s",
+        "dish_name": "Italian Wedding Soup risotto",
+        "img": "risottoclose",
+        "description": "It seemed like such a simple no-brainer combination. And once Kirk and Jessica sampled this, they started making it all the time at home."
+      },
+      {
+        "location_name": "Neo",
+        "dish_name": "Suzuki Aburi with Kurozu vinaigrette",
+        "img": "",
+        "description": "Jessica took Kirk out to his first omakase experience for his 30th birthday, and this was his favorite dish. It was seared over Japanese charcoal and dipped in a citrusy vinaigrette."
+      },
+      {
+        "location_name": "Home",
+        "dish_name": "Parmesan wheel",
+        "img": "parmstore",
+        "description": "It's been Kirk's dream for years to serve pasta in a big parmesan cheese wheel. He finally got to live his dream this year and served cacio e pepe at his 30th birthday party."
+      },
+      {
+        "location_name": "Z Counter",
+        "dish_name": "Beef short rib rice bowl",
+        "img": "zcounter",
+        "description": "This was a short stop in Corpus Christi on their anniversary trip, and their expectations were low. They were blown away by the quality of the meat, the sweet, salty and sour flavors, and the quantity!"
+      },
+      {
+        "location_name": "Little Pearl",
+        "dish_name": "THE Pork and Lychee Salad",
+        "img": "lychee",
+        "description": "Kirk and Jessica's friends Allison and Keegan got married at the Little Pearl in DC, and they served the best wedding food Kirk and Jessica have ever tasted. This was their favorite dish."
+      },
+      {
+        "location_name": "Taste of Texas",
+        "dish_name": "Ribeye",
+        "img": "steak",
+        "description": "Before leaving Texas, Kirk was informed he needed to try Taste of Texas. It was the best steakhouse he'd been to. Also the salad bar is crazy."
+      },
+      {
+        "location_name": "Houston Chinatown",
+        "dish_name": "our last food crawl (Tao Roll, shenjian bao, Grapefruit green tea)",
+        "img": "chinatown",
+        "description": "During their last week in Houston, they visited all of their greatest hits in Chinatown. It was bittersweet saying goodbye, but also delicious."
+      },
+      {
+        "location_name": "Enso",
+        "dish_name": "Strawberry matcha latte",
+        "img": "matcha",
+        "description": "This matcha popup in Houston had a long line but it was worth the way. While usually not a matcha fan, Kirk loved these lattes."
+      },
+      {
+        "location_name": "Monsieur Paul’s",
+        "dish_name": "Saffron soup",
+        "img": "saffron",
+        "description": "Kirk surprised Jessica during their time at EPCOT with a dinner at Monsieur Paul's. This saffron soup was the star of the show."
+      },
+      {
+        "location_name": "Chu Shang",
+        "dish_name": "Malatang",
+        "img": "chushang",
+        "description": "Since this is Kirk's favorite restaurant in Philly, it only made sense to go straight there once they moved back to the East Coast."
+      },
+      {
+        "location_name": "DeLorenzo’s Tomato Pies",
+        "dish_name": "Tomato pie with basil",
+        "img": "pizza",
+        "description": "Kirk got to catch up with Chris, his best man, in NJ. Having pizza of this quality reminded Kirk that he was back home."
+      },
+      {
+        "location_name": "Bardea Food & Drink",
+        "dish_name": "Burrata pop tarts",
+        "img": "poptart",
+        "description": "Kirk and Jessica celebrated her new job at Bardea Food & Drink in Delaware. This was a family favorite!"
+      },
+      {
+        "location_name": "Local farm",
+        "dish_name": "CSA",
+        "img": "csa",
+        "description": "It's long been Jessica's dream to be a part of a community supported agriculture program, and the farm down the road has a great one!"
+      }
+    ]
+  },
+  {
+    "section": "music",
+    "content": [
+      {
+        "song_title": "Pink Pony Club",
+        "artist": "Chappell Roan",
+        "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc?si=1a6981fcc5fa44cf",
+        "description": "This song got Jessica through her commutes to the hospital. It's upbeat and fun, meaning Jessica stays awake!"
+      },
+      {
+        "song_title": "Kirkland",
+        "artist": "Max Leone",
+        "url": "https://open.spotify.com/track/4OxjnvgN5wtUNALPUPIyAz?si=e758c625170f4822",
+        "description": "While searching for the right artist name to release Kirk’s music under, we came across this song. It was actually a bop."
+      },
+      {
+        "song_title": "MCU",
+        "artist": "Kirk An",
+        "url": "https://open.spotify.com/track/5n0bMzyufZwaNuZlzIAHwD?si=ba09158a38324c3b",
+        "description": "This is Jessica’s favorite song on Kirk’s album! Kirk showed her the demo for this song when they reunited after a month apart that he had written about their lives and she found herself crying in the back of an Uber in Kenya."
+      },
+      {
+        "song_title": "Where Your Treasure Is",
+        "artist": "Jon Guerra",
+        "url": "https://open.spotify.com/track/5GnpnwPvuHXz2fuoq9skgc?si=79968b1c4339440e",
+        "description": "Kirk loves Jon Guerra’s songwriting and thinks Jon made an often-repeated passage feel brand new and deeply personal."
+      },
+      {
+        "song_title": "Opalite",
+        "artist": "Taylor Swift",
+        "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa?si=f96812df8028448e",
+        "description": "This bop pushed Jessica through her last two weeks of boards studying. She's had a Taylor Swift dance party for every standardized test she's taken!"
+      }
+    ]
+  },
+  {
+    "section": "interests",
+    "content": [
+      {
+        "interest": "Various housekeeping/DIY projects",
+        "description": "Kirk has learned things he never thought he'd need to learn, like how to repair a toilet paper holder, change a showerhead, and do various lawncare tasks. It's a privilege to do these things though, so he is generally thankful. But it also takes a lot of energy to follow through with grand plans."
+      },
+      {
+        "interest": "Focaccia",
+        "description": "Jessica started making focaccia at home after being influenced by Instagram. So far, she's made Chinese sausage-scallion, brown butter apple fritter, and pizza focaccia."
+      }
+    ]
+  }
+]

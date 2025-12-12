@@ -1,0 +1,64 @@
+[
+  { "section": "special-values", "special_values_name": "arnold-laura-arie" },
+  {
+    "section": "intro",
+    "content": [
+      {
+        "type": "text",
+        "person": "Laura",
+        "text": "Laura’s been settling into her role as a mom this year and adjusting to life in a new environment since our move to New Jersey. She got to spend an unexpectedly long time on maternity leave for the first half of the year - which ended up being a very sweet time spent with Arie, and a chance to help her ease into the move to NJ. Laura was able to transfer to the NYC office and thankfully continue working the same job but part time, which felt both familiar (the type of work is the same) and new (meeting new coworkers, holding stricter work/life balance boundaries to make it home to see Arie before bedtime). In her free time, Laura’s enjoyed the space planning and decorating aspects of moving into a new house, gotten back into reading for fun again, and is slowly venturing back into the world of photography."
+      }
+    ]
+  },
+  {
+    "section": "travel",
+    "content": [
+      {
+        "location": "Pine Brook, NJ",
+        "latLong": [40.875425907781654, -74.34970383704335],
+        "img": "pinebrook",
+        "description": "We moved (!!) in May to Pine Brook, NJ, to be closer to family."
+      },
+      {
+        "location": "Berkshires",
+        "latLong": [42.30705008626082, -73.24900250899663],
+        "img": "berkshiresALA",
+        "description": "Went to the Berkshires in August for our Hsieh/Lee reunion! Got to see all the cousins and Arie met her great grandparents for the first time!"
+      },
+      {
+        "location": "Ann Arbor, MI",
+        "latLong": [42.279539694180286, -83.74129087165247],
+        "img": "annarbor",
+        "description": "Went to Ann Arbor in November to visit Arnold’s friend Ben and his family. Arie got to play with Ben’s two kids and she went on her first plane ride (and did pretty good!)"
+      }
+    ]
+  },
+  {
+    "section": "best-bites",
+    "content": [
+      {
+        "location_name": "Raku",
+        "dish_name": "Nabeyaki udon",
+        "img": "udon",
+        "description": "Chicken, shrimp tempura, sea eel, fish cake, shiitake mushroom, sansai, egg. Truly the most delightful bowl of udon I’ve ever tried - an incredibly rich and complex broth, juicy chicken, and light tempura. I think about this often."
+      },
+      {
+        "location_name": "Laboratorio Kitchen",
+        "dish_name": "Meatball",
+        "img": "meatball",
+        "description": "The most gigantic meatball you’ll ever eat, and the tastiest."
+      },
+      {
+        "location_name": "Faubourg",
+        "dish_name": "Grilled octopus & lentil appetizer",
+        "img": "octopus"
+      },
+      {
+        "location_name": "Kaijiken",
+        "dish_name": "Abura soba",
+        "img": "kaijiken",
+        "description": "Perfect noodle texture and really tasty savory meat sauce."
+      }
+    ]
+  }
+]

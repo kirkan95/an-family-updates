@@ -1,0 +1,51 @@
+export const imageMap2025 = {
+  // kirk and jessica
+
+  berkshires: "/2025/kirk-jessica/berkshires.JPG",
+  buccees: "/2025/kirk-jessica/buccees.JPG",
+  chinatown: "/2025/kirk-jessica/chinatown.JPG",
+  chushang: "/2025/kirk-jessica/chushang.JPG",
+  corpus: "/2025/kirk-jessica/corpus.JPG",
+  csa: "/2025/kirk-jessica/csa.JPG",
+  disney: "/2025/kirk-jessica/disney.JPG",
+  fanta: "/2025/kirk-jessica/fanta.JPG",
+  kenyaBite: "/2025/kirk-jessica/kenya-bite.JPG",
+  lobster: "/2025/kirk-jessica/lobster.JPG",
+  lychee: "/2025/kirk-jessica/lychee.JPG",
+  malawi: "/2025/kirk-jessica/malawi.JPG",
+  matcha: "/2025/kirk-jessica/matcha.JPG",
+  parm: "/2025/kirk-jessica/parm.JPG",
+  parmstore: "/2025/kirk-jessica/parmstore.JPG",
+  pizza: "/2025/kirk-jessica/pizza.JPG",
+  poptart: "/2025/kirk-jessica/poptart.JPG",
+  risotto: "/2025/kirk-jessica/risotto.JPG",
+  risottoclose: "/2025/kirk-jessica/risottoclose.JPG",
+  roadtrip: "/2025/kirk-jessica/roadtrip.JPG",
+  saffron: "/2025/kirk-jessica/saffron.JPG",
+  scallion: "/2025/kirk-jessica/scallion.JPG",
+  shenandoah: "/2025/kirk-jessica/shenandoah.JPG",
+  steak: "/2025/kirk-jessica/steak.JPG",
+  zcounter: "/2025/kirk-jessica/zcounter.JPG",
+
+  // perry and elise
+
+  berkshiresPe: "/2025/perry-elise/berkshires-pe.jpg",
+  california: "/2025/perry-elise/california.jpg",
+  crawfish: "/2025/perry-elise/crawfish.jpg",
+  dc: "/2025/perry-elise/dc.jpg",
+  duck: "/2025/perry-elise/duck.jpg",
+  fairfax: "/2025/perry-elise/fairfax.jpg",
+  houston: "/2025/perry-elise/houston.jpg",
+  introPe: "/2025/perry-elise/introPe.jpg",
+  mawn: "/2025/perry-elise/mawn.jpg",
+  noodles: "/2025/perry-elise/noodles.jpg",
+  salmon: "/2025/perry-elise/salmon.jpg",
+  succotash: "/2025/perry-elise/succotash.jpg",
+  tamago: "/2025/perry-elise/tamago.jpg",
+
+  // monica
+  introm: "/2025/monica/introm.jpg",
+  ahmah: "/2025/monica/ahmah.jpg",
+  cafew: "/2025/monica/cafew.jpg",
+  onigirazu: "/2025/monica/onigirazu.jpg",
+};

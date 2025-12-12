@@ -1,0 +1,144 @@
+[
+  { "section": "special-values", "special_values_name": "monica" },
+  {
+    "section": "intro",
+    "content": [
+      {
+        "type": "photo",
+        "src": "/2025/monica/introm.jpg",
+        "vertical": true
+      },
+      {
+        "type": "text",
+        "person": "Monica",
+        "text": "Monica had an exciting and diverse year, dipping her toes into some new ventures at the beginning and settling down a bit by the end of it. She started the year running around as a production assistant on a few music videos, and began following in her sister’s footsteps into photography. She began working at a preschool for the 2025-2026 school year and has been spending her days with 3 year olds since. In her free time, she is still dancing, of course, doing small projects with her friends and taking classes for fun. One of her favorite things to do is to meet up with her college friends to journal or read together at cafes."
+      }
+    ]
+  },
+  {
+    "section": "travel",
+    "content": [
+      {
+        "location": "San Diego",
+        "latLong": [40.875425907781654, -74.34970383704335],
+        "img": "ahmah",
+        "description": "In January I went to San Diego with mom, got to spend time with Ah Mah and Ah Kgong and see a few cousins and friends 🙂"
+      },
+      {
+        "location": "London",
+        "latLong": [51.516990425381685, -0.12014440712924411],
+        "img": "london",
+        "description": "In April I went to London to visit my college roommate! I got to be a tourist on my first trip to Europe, and spend time with some of my favorite people."
+      },
+      {
+        "location": "New York City",
+        "latLong": [40.727731730968074, -74.00011324861664],
+        "img": "nyc",
+        "description": "From June to August in New York City, I decided to sublet for the summer to train in dance. It was a really enlightening and exciting experience, and I made a lot of new friends and gained a lot of knowledge :)"
+      },
+      {
+        "location": "Berkshires",
+        "latLong": [42.30705008626082, -73.24900250899663],
+        "img": "berkshiresM",
+        "description": "In August I went to the Berkshires for the reunion. Was really fun to get to see all of the cousins from both near and far!"
+      }
+    ]
+  },
+  {
+    "section": "best-bites",
+    "content": [
+      {
+        "location_name": "Momo Crave",
+        "dish_name": "Tandoori Momo",
+        "img": "momo",
+        "description": "My go-to quick bite while subletting in Queens. Super flavorful, a little kick of spice, and a generous portion."
+      },
+      {
+        "location_name": "Cafe W",
+        "dish_name": "Pollock roe salt bread, mojito-ade",
+        "img": "cafew",
+        "description": "They only have the pollock roe bread in the morning and yes I was waking up early just to snag it. Hands down my favorite cafe in Flushing."
+      },
+      {
+        "location_name": "Daesung Noodles",
+        "dish_name": "Fish cake soup",
+        "img": "daesung",
+        "description": "A little pricey but so warming and delicious. Perfect for a winter day."
+      },
+      {
+        "location_name": "BunsikNara",
+        "dish_name": "Combo C (cream pasta, fried rice, and Korean fried chicken)",
+        "img": "comboc",
+        "description": "Not new for me but still a fave! I’ve been getting this combo to split with 2-3 friends since college. Still hits."
+      },
+      {
+        "location_name": "969 NYC Coffee",
+        "dish_name": "Literally any of their onigirazu",
+        "img": "onigirazu",
+        "description": "I think I ascended when I took that first bite. Note: you must call ahead; the owner makes everything to order and is very friendly!"
+      }
+    ]
+  },
+  {
+    "section": "music",
+    "content": [
+      {
+        "song_title": "Love Attack",
+        "artist": "Ferrara",
+        "url": "https://open.spotify.com/track/6InkUn4bo6xzoaMbgJa5UN?si=a150ba16d8114654",
+        "description": "One of my favorite disco songs to dance to this summer. It’s fun!"
+      },
+      {
+        "song_title": "What Time Is It",
+        "artist": "Crystal Kay",
+        "url": "https://open.spotify.com/track/64lyXLGhKgKrAKqcQ2hINc?si=40de37ac8ca147a8",
+        "description": "Went back to one of my middle school faves with this one. It’s just good vibes."
+      },
+      {
+        "song_title": "Close 2 U",
+        "artist": "Raveena",
+        "url": "https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc?si=d498f2a398a44c16",
+        "description": "I went to her concert this year and was enchanted by her performance… this is one of my favorites by her 🙂"
+      },
+      {
+        "song_title": "Bittersweet Goodbyes",
+        "artist": "Joyce Wrice",
+        "url": "https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ?si=c5b46a285ded46ce",
+        "description": "Made choreography to this song this year and can somehow still listen to it!"
+      },
+      {
+        "song_title": "愛你但説不出口",
+        "artist": "Karencici",
+        "url": "https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh?si=46a2d6af3035438c",
+        "description": "We love a Chinese R&B pop hit."
+      },
+      {
+        "song_title": "Resume",
+        "artist": "Jenevieve",
+        "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ?si=4af4743185914fa9",
+        "description": "This song soothed me this year!"
+      },
+      {
+        "song_title": "Mwah!",
+        "artist": "Lojay, Odeal",
+        "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw?si=a3d7c38a57f147a1",
+        "description": "My favorite dance class of the year was to this song!!"
+      },
+      {
+        "song_title": "Can’t Get You",
+        "artist": "Jaehyun",
+        "url": "https://open.spotify.com/track/5rQK8kcBmwVGuJqqzMJApQ?si=fefa5b9e673a4562",
+        "description": "My favorite song to drive to hehe"
+      }
+    ]
+  },
+  {
+    "section": "interests",
+    "content": [
+      {
+        "interest": "Waacking",
+        "description": "The biggest reason I went to NYC this summer was to learn a specific dance style called waacking, which is a disco era style that is difficult to find a foundational class for if not in the city. I was able to really get plugged into the community and learn from some really talented people! It also really nurtured my appreciation for disco music."
+      }
+    ]
+  }
+]

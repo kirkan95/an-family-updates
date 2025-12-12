@@ -1,0 +1,164 @@
+[
+  { "section": "special-values", "special_values_name": "perry-elise" },
+  {
+    "section": "intro",
+    "content": [
+      {
+        "type": "photo",
+        "src": "/2025/perry-elise/introPe.jpg"
+      },
+      {
+        "type": "text",
+        "person": "Elise",
+        "text": "Elise has been able to make more time this year for the people and the issues she loves. She was able to take two trips to San Diego, once in January with Monica, just to spend time with her parents, who are both in their nineties, and the other time in August, to escort her parents home after the big 90th birthday celebration (see Travel section below). She was also able to spend significant time with Arie during the transition when Laura started working again, but Arnold’s mom was still not free to be the regular caregiver. Elise has also returned to the state board of the NJ PTA. She chaired the Health and Safety Committee this year, and will return to chairing the Legislative Affairs Committee next year. In addition, Elise has become a poll worker, assisting in making sure our elections run smoothly. At church, she is discipling several women, and has recently rejoined the ESMT, the committee that oversees the ministries of the English congregation. She is also still walking regularly, and core training online with her sister Frannie, who is a licensed professional trainer. God has been teaching her to stop praying primarily for her family’s safety and success, and to pray instead for their hearts to hunger and thirst for God."
+      },
+      {
+        "type": "text",
+        "person": "Perry",
+        "text": "Perry is 66 this year and thinks quite often about retirement, even more often whenever he sees Arie, our granddaughter. But he has to wait until Elise is eligible for Medicare, so until then, he will, God willing, work.  Perry is still a contractor for Lockheed Martin working on requirements, models and system design. Still busy at church doing Audio / Visual, lay preaching and teaching Sunday school classes.  Thinking seriously about how he would serve after he retired. In terms of his health, he has made some changes to his diet to address his pre-diabetes. Fortunately,  Elise has been accommodating and spends significant time making healthy salads and roasted veggies. Perry has also experienced hip pain, made worse by a fall in his front walkway this autumn. With much thanks to God, he has healed significantly and has returned to light running in the morning. Grateful to God for having all of the progeny within an hour and a half of our house. Our hearts are full. Perry’s reading through epistles of the New Testament has really challenged him in how God sees people and how hard his heart is in light of God’s mercy.  Pray for him as he experiences God’s leading."
+      }
+    ]
+  },
+  {
+    "section": "travel",
+    "content": [
+      {
+        "location": "Fairfax, VA",
+        "latLong": [38.85516056442889, -77.30149214058392],
+        "img": "fairfax",
+        "description": "For Arie's dedication at All People’s Community Church."
+      },
+      {
+        "location": "Houston, TX",
+        "latLong": [29.762703028646502, -95.36026222135195],
+        "img": "houston",
+        "description": "For one last visit with Jessica and Kirk before they move when Jessica completes her residency.  Highlights were BBQ (obviously), Crawfish and Noodles, a tour of Daikin Park, a day at Herman Park anid Agnes and Sherman (an Asian diner)."
+      },
+      {
+        "location": "Berkshires",
+        "latLong": [42.30705008626082, -73.24900250899663],
+        "img": "berkshires",
+        "description": "To jointly celebrate Elise’s mom’s and Elise’s Auntie Sue's 90th birthdays.  It was a reunion of 70 and more people coming from all over the US, Europe and Africa."
+      },
+      {
+        "location": "Washington, DC",
+        "latLong": [38.89872772911046, -77.04480209631903],
+        "img": "dc",
+        "description": "Church Bible Study group outing to the Museum of the Bible and dinner at the Wharf.  On the return trip, we had steamed Maryland crabs."
+      },
+      {
+        "location": "California",
+        "latLong": [37.86403677125613, -119.52777220979456],
+        "img": "california",
+        "description": "Visited Yosemite National Park and stayed with Elise’s sister and brother-in-law at their homes in Lake Tahoe and Sacramento."
+      }
+    ]
+  },
+  {
+    "section": "best-bites",
+    "content": [
+      {
+        "location_name": "Agnes and Sherman",
+        "dish_name": "Crawfish Egg Foo Young",
+        "img": "crawfish",
+        "description": "A classic Chinese American takeout dish with its narrative reclaimed. Delicious!"
+      },
+      {
+        "location_name": "An house",
+        "dish_name": "Roasted Salmon with Roasted Corn Salad",
+        "img": "salmon",
+        "description": "NYTimes one sheet pan recipe that was exceptional."
+      },
+      {
+        "location_name": "Mawn",
+        "dish_name": "Ginger and Melon Salad",
+        "img": "mawn",
+        "description": "So complex but yummy."
+      },
+      {
+        "location_name": "886",
+        "dish_name": "Dry Fried Beef Noodles",
+        "img": "noodles",
+        "description": "You should see Monica’s noodle pull video."
+      },
+      {
+        "location_name": "Succotash",
+        "dish_name": "Delta Rice Bowl",
+        "img": "succotash",
+        "description": "Brunch in DC before hitting the museums."
+      },
+      {
+        "location_name": "Le Veau D’or",
+        "dish_name": "Duck Magret",
+        "img": "duck",
+        "description": "Old school dish at an old school NYC neighborhood bistro."
+      },
+      {
+        "location_name": "Mikan",
+        "dish_name": "Tamago Sando",
+        "img": "tamago",
+        "description": "Their Unagi Sando was a close second."
+      }
+    ]
+  },
+  {
+    "section": "music",
+    "content": [
+      {
+        "song_title": "Swing to Bop",
+        "artist": "Charlie Christian",
+        "url": "https://open.spotify.com/track/0qqacd9DgUtKduGw0znvqA?si=88fc5c2cb4d04957",
+        "description": "Discovered “Swing to Bop”, a bootleg recording of Charlie Christian in an impromptu jam session at Minton’s Playhouse in 1941, unfettered from the formal styles of his employer, Benny Goodman."
+      },
+      {
+        "song_title": "The Ocean",
+        "artist": "Josh Redman",
+        "url": "https://open.spotify.com/track/1NGf8FvPcCau3GuEZcfluv?si=40e995b4a1ed4c23",
+        "description": "Josh Redman’s cover of Zeppelin’s “the Ocean”. Such energy and joy."
+      },
+      {
+        "song_title": "Jealous Moon",
+        "artist": "Sarah Jarosz",
+        "url": "https://open.spotify.com/track/4cFeho8LgQdbrvp6caSloz?si=451c23f403a64636",
+        "description": "Sarah Jarosz is a fantastic singer-songwriter who plays great mandolin."
+      },
+      {
+        "song_title": "I Need You",
+        "artist": "Kirk An",
+        "url": "https://open.spotify.com/track/6ZXlPi6sNwzfocgmNEiZ0R?si=hZQm6QZdTZSUr6GAa7bh8Q",
+        "description": "The Gospel, the Good News of Jesus is very simple and fulfills our deepest longing.  This song encapsulates it beautifully."
+      },
+      {
+        "song_title": "Dance me to the End of Love",
+        "artist": "Madeleine Peyroux",
+        "url": "https://open.spotify.com/track/13zjNPZUyWvzZC2dlYjW0L?si=0c627c775511406d"
+      },
+      {
+        "song_title": "Afro Blue",
+        "artist": "Erykah Badu",
+        "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ?si=4af4743185914fa9"
+      },
+      {
+        "song_title": "Hypotheticals",
+        "artist": "Lake Street Dive",
+        "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN?si=0c52c91a329346fc",
+        "description": "That drumming!"
+      },
+      {
+        "song_title": "Midnight in Harlem",
+        "artist": "Tedeschi Trucks Band",
+        "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd?si=d95552eca35045ad",
+        "description": "The singer tells the narrative but the guitar solo reveals the heart."
+      }
+    ]
+  },
+  {
+    "section": "interests",
+    "content": [
+      {
+        "interest": "National parks",
+        "description": "Perry got a senior life time National Park pass. Elise got a National Park passport just waiting for National Park stamps.  We are seniors waiting to be amazed by God’s creation!"
+      }
+    ]
+  }
+]
