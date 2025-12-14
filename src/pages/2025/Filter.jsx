@@ -41,6 +41,7 @@ const Menu = styled.div`
 `;
 
 const peopleMenu = [
+  "Home",
   "Kirk and Jessica",
   "Perry & Elise",
   "Arnold, Laura & Arie",

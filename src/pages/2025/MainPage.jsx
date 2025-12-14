@@ -5,10 +5,13 @@ import kirkJessica from "../../content/2025/kirk-jessica.json";
 import perryElise from "../../content/2025/perry-elise.json";
 import arnoldLauraArie from "../../content/2025/arnold-laura-arie.json";
 import monica from "../../content/2025/monica.json";
+import home from "../../content/2025/home.json";
 import Intro from "./Intro";
 import Food from "./Food";
 import Music from "./Music";
 import Interests from "./Interests";
+import Milestones from "./Milestones";
+import Home from "./Home";
 import styled from "styled-components";
 
 const MainWrapper = styled.div`
@@ -38,10 +41,11 @@ const dataMap = {
   "Perry & Elise": perryElise,
   "Arnold, Laura & Arie": arnoldLauraArie,
   Monica: monica,
+  Home: home,
 };
 
 const MainPage = () => {
-  const [selectedPeople, setSelectedPeople] = useState(null);
+  const [selectedPeople, setSelectedPeople] = useState("Home");
 
   return (
     <MainWrapper>
@@ -60,6 +64,9 @@ const MainPage = () => {
               />
             );
           }
+          if (section.section === "home") {
+            return <Home key={index} sectionData={section.content} />;
+          }
           if (section.section === "travel") {
             return <Scrolly key={index} sectionData={section.content} />;
           }
@@ -72,10 +79,11 @@ const MainPage = () => {
           if (section.section === "interests") {
             return <Interests key={index} sectionData={section.content} />;
           }
+          if (section.section === "milestones") {
+            return <Milestones key={index} sectionData={section.content} />;
+          }
         })}
-      {/* BEGIN: Back to Top Button */}
       <BackToTopButton onClick={scrollToTop}>Back to Top</BackToTopButton>
-      {/* END: */}
     </MainWrapper>
   );
 };

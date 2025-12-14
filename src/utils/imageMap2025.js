@@ -26,6 +26,14 @@ export const imageMap2025 = {
   shenandoah: "/2025/kirk-jessica/shenandoah.JPG",
   steak: "/2025/kirk-jessica/steak.JPG",
   zcounter: "/2025/kirk-jessica/zcounter.JPG",
+  thirty: "/2025/kirk-jessica/thirty.jpg",
+  attending: "/2025/kirk-jessica/attending.JPG",
+  graduate: "/2025/kirk-jessica/graduate.JPG",
+  house: "/2025/kirk-jessica/house.JPG",
+  moved: "/2025/kirk-jessica/moved.JPG",
+  boards: "/2025/kirk-jessica/boards.jpg",
+  kenya: "/2025/kirk-jessica/kenya.jpg",
+  neo: "/2025/kirk-jessica/neo.jpg",
 
   // perry and elise
 
@@ -48,4 +56,8 @@ export const imageMap2025 = {
   ahmah: "/2025/monica/ahmah.jpg",
   cafew: "/2025/monica/cafew.jpg",
   onigirazu: "/2025/monica/onigirazu.jpg",
+  london: "/2025/monica/london.jpg",
+  momo: "/2025/monica/momo.jpg",
+  berkshiresm: "/2025/monica/berkshiresm.jpg",
+  nyc: "/2025/monica/nyc.jpg",
 };
