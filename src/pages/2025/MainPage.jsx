@@ -83,7 +83,9 @@ const MainPage = () => {
             return <Milestones key={index} sectionData={section.content} />;
           }
         })}
-      <BackToTopButton onClick={scrollToTop}>Back to Top</BackToTopButton>
+      <BackToTopButton className="dm-sans" onClick={scrollToTop}>
+        Back to Top
+      </BackToTopButton>
     </MainWrapper>
   );
 };

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styled from "styled-components";
 
 const HomeWrapper = styled.div`
@@ -21,8 +21,32 @@ const HomeImage = styled.img`
   max-width: 1100px;
 `;
 
+const Spinner = styled.div`
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 4px solid #3498db;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: 0 auto;
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+`;
+
 const Home = ({ sectionData }) => {
-  console.log(sectionData);
+  const [loading, setLoading] = useState(true);
+
+  const handleImageLoad = () => {
+    setLoading(false);
+  };
+
   return (
     <HomeWrapper>
       {sectionData.map((content) => {
@@ -37,7 +61,16 @@ const Home = ({ sectionData }) => {
           );
         }
         if (content.type === "image") {
-          return <HomeImage key={content.src} src={content.src} />;
+          return (
+            <div key={content.src}>
+              {loading && <Spinner />}
+              <HomeImage
+                src={content.src}
+                onLoad={handleImageLoad}
+                style={{ display: loading ? "none" : "block" }}
+              />
+            </div>
+          );
         }
       })}
     </HomeWrapper>
