@@ -49,7 +49,6 @@ const SvgWave = styled.svg`
   display: block;
   width: 100%;
   margin-bottom: -2px;
-  padding-bottom: -1px;
   background-color: #6b212c;
 `;
 

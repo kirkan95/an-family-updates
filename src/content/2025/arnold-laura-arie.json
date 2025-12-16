@@ -5,8 +5,18 @@
     "content": [
       {
         "type": "text",
+        "person": "Arnold",
+        "text": "Arnold has had a whirlwind of a year in 2025. With adjusting to fatherhood, moving and finding a new job, and trying to build new rhythms and community in a new location and stage of life, this has probably been the most life-changing year for him. Despite the craziness, God has still been faithful through it all. Quitting his job without another one lined up in preparation for the move, he has had to trust that God was going to provide for him and his family. He is extremely grateful to be living near family in NJ now - another praise to God for providing such loving and supportive family members in helping with taking care of Arie. They are still looking for a church community to call home (a prayer request!). Arnold still gets to play volleyball weekly with some old/new friends and still loves collecting Pokemon (and now some Magic: The Gathering) cards!"
+      },
+      {
+        "type": "text",
         "person": "Laura",
         "text": "Laura’s been settling into her role as a mom this year and adjusting to life in a new environment since our move to New Jersey. She got to spend an unexpectedly long time on maternity leave for the first half of the year - which ended up being a very sweet time spent with Arie, and a chance to help her ease into the move to NJ. Laura was able to transfer to the NYC office and thankfully continue working the same job but part time, which felt both familiar (the type of work is the same) and new (meeting new coworkers, holding stricter work/life balance boundaries to make it home to see Arie before bedtime). In her free time, Laura’s enjoyed the space planning and decorating aspects of moving into a new house, gotten back into reading for fun again, and is slowly venturing back into the world of photography."
+      },
+      {
+        "type": "text",
+        "person": "Arie",
+        "text": "Arie turned 1 this year! In one year she learned how to sit up by herself, roll over, crawl, walk, and start talking which is more than anyone else in this family learned this year. Arie loves dancing, doing yoga, eating snacks (specifically bambas), reading books, exploring outside, and pretending to cook. Her current favorite foods are tofu, strawberries, dragonfruit, and noodles."
       }
     ]
   },
@@ -58,6 +68,76 @@
         "dish_name": "Abura soba",
         "img": "kaijiken",
         "description": "Perfect noodle texture and really tasty savory meat sauce."
+      }
+    ]
+  },
+  {
+    "section": "music",
+    "content": [
+      {
+        "song_title": "Camera",
+        "artist": "Ed Sheeran",
+        "url": "https://open.spotify.com/track/3Le804dwqxqWiycuyigkNs?si=8f38c49e0f9f4923",
+        "description": "Ed Sheeran does it again."
+      },
+      {
+        "song_title": "Roman Holiday",
+        "artist": "Halsey",
+        "url": "https://open.spotify.com/track/6QM43jWfEYupPS5pKOntPA?si=ce5a75d30b6b45a6",
+        "description": "Kind of a great song to drive to in the summer."
+      },
+      {
+        "song_title": "Let the Church Sing",
+        "artist": "Tauren Wells",
+        "url": "https://open.spotify.com/track/1Kb56ii7Gr2DgRMon5tgmD?si=a55a14733ba540e8",
+        "description": "Just an exuberant, joyful song!"
+      },
+      {
+        "song_title": "Don't Wanna Be Your Friend",
+        "artist": "Lemon City",
+        "url": "https://open.spotify.com/track/1SG7ZG5HgymSys1Nfl21oT?si=5a87ea38fd0949c1",
+        "description": "An angsty cute love song."
+      },
+      {
+        "song_title": "Divine",
+        "artist": "Stray Kids",
+        "url": "https://open.spotify.com/track/15nElWknZsgnSIfVihVCQf?si=2fd540264fa54200",
+        "description": "Stray Kids explores some old school hip hop beats."
+      },
+      {
+        "song_title": "Handlebars",
+        "artist": "JENNIE & Dua Lipa",
+        "url": "https://open.spotify.com/track/5eutB2O8MLQjPJmAlYvxXC?si=1bd37ad1cee94aaf",
+        "description": "One of my favorite collabs that came out this year!"
+      },
+      {
+        "song_title": "Sunshine",
+        "artist": "Crafted Child",
+        "url": "https://open.spotify.com/track/3tIK4SBQCOFdkMKGc17RZz?si=c6b21cf542454581",
+        "description": "Loved this whole album really, but this one was exactly the kind of chill beat, great vocals song I love."
+      },
+      {
+        "song_title": "The Happy Song",
+        "artist": "Imogen Heap",
+        "url": "https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws?si=6721d05fe1194661",
+        "description": "So beautiful and calming."
+      }
+    ]
+  },
+  {
+    "section": "interests",
+    "content": [
+      {
+        "interest": "Arnold",
+        "description": "Magic: The Gathering"
+      },
+      {
+        "interest": "Laura",
+        "description": "Monochrome coloring books (no color-selection paralysis!)"
+      },
+      {
+        "interest": "Arie",
+        "description": "Talking"
       }
     ]
   }

@@ -7,6 +7,7 @@ const FoodWrapper = styled.div`
   padding: 20px;
   background-color: #dce0e8;
   color: black;
+  overflow-x: hidden;
 
   h3 {
     margin: 0 auto;

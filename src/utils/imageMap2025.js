@@ -51,6 +51,16 @@ export const imageMap2025 = {
   succotash: "/2025/perry-elise/succotash.jpg",
   tamago: "/2025/perry-elise/tamago.jpg",
 
+  // arnold, laura, arie
+
+  annarbor: "/2025/arnold-laura-arie/annarbor.jpeg",
+  berkshiresALA: "/2025/arnold-laura-arie/berkshiresALA.jpeg",
+  kaijiken: "/2025/arnold-laura-arie/kaijiken.jpeg",
+  meatball: "/2025/arnold-laura-arie/meatball.jpeg",
+  octopus: "/2025/arnold-laura-arie/octopus.jpeg",
+  pinebrook: "/2025/arnold-laura-arie/pinebrook.jpeg",
+  udon: "/2025/arnold-laura-arie/udon.jpeg",
+
   // monica
   introm: "/2025/monica/introm.jpg",
   ahmah: "/2025/monica/ahmah.jpg",

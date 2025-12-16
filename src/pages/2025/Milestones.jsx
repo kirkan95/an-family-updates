@@ -24,7 +24,6 @@ const MilestoneWrapper = styled.div`
 
   .interest,
   .description {
-    padding: 0 0.5rem;
   }
 
   .milestone {
@@ -39,6 +38,7 @@ const MilestoneWrapper = styled.div`
   .milestone-container {
     display: flex;
     flex-direction: column;
+    padding: 0 0.5rem;
   }
 
   .description {

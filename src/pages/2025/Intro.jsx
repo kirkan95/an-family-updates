@@ -47,6 +47,7 @@ const SvgWave = styled.svg`
   width: 100%;
   margin-bottom: -1px;
   padding: 0;
+  vertical-align: bottom;
 `;
 
 const Intro = ({ content, selectedPeople }) => {
